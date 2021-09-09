@@ -1,0 +1,5 @@
+tqdm
+numpy
+tensorboard
+h5py
+scipy
